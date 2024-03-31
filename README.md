@@ -1,4 +1,4 @@
-![info](Not.jpg)
+![info](mac.jpg)
  
 # Fruitcrafts Bot:
 FruitCraft Bot: An Intelligent Automated Player for FruitCraft Game
